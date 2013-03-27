@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, OarGasms!</string>
+    <string name="app_name">Oar-Gasms</string>
+    <string name="recruit_athletes">Recruit Athletes</string>
+    <string name="boathouse">Go to Boathouse</string>
+    <string name="oar">OAR-</string>
+    <string name="gasms">GASMS</string>
+    <string name="image">image</string>
+    <string name="recruit">RECRUIT</string>
+    <string name="athletes">ATHLETES</string>
+    <string name="divider">divider</string>
+    <string name="_1">Add an</string>
+    <string name="athlete">ATHLETE</string>
+    <string name="type_">Type:</string>
+    <string name="coxswain">Coxswain</string>
+    <string name="both">Both</string>
+    <string name="starboard">Starboard</string>
+    <string name="port">Port</string>
+    <string name="accept_nathlete">Accept\\nAthlete</string>
+    <string name="_min_sec_">(MIN:SEC)</string>
+    <string name="_min_sec_hun_">(MIN:SEC:HUN)</string>
+    <string name="_lbs_">(LBS)</string>
+    <string name="weight_">Weight:</string>
+    <string name="_inches_">(INCHES)</string>
+    <string name="height_">Height:</string>
+    <string name="graduation_year_">Graduation Year:</string>
+    <string name="abbrev">ABBREV</string>
+    <string name="last">LAST</string>
+    <string name="first">FIRST</string>
+    <string name="name_">Name:</string>
+    <string name="_2k_time_">2k Time:</string>
+    <string name="_6k_time_">6k Time:</string>
+    <string name="reset">Reset</string>
+
+</resources>
